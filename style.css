@@ -50,6 +50,11 @@ footer {
 
 @media only screen and (min-width: 960px) {
     /* For desktop: */
+    body {
+      width: 960px; 
+      padding: 0; 
+      margin: 0 auto; 
+    }
     header {
       width: 960px; 
       height: 100px; 
@@ -87,4 +92,4 @@ footer {
     footer {
       height: 150px; 
     }
-} 
+} /* end of desktop section */ 
