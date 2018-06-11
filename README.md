@@ -1,10 +1,10 @@
-# 05-form-building
+# ui-challenge
 
 **Author**: Chris L Chapman
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+We picked up a project this morning and we want to get as much of it done before 2pm. We want to design with a a mobile-first approach and must be responsive when the screen size changes. The client wants a breakpoint of 960 pixels. The mobile view has a width of 480 pixels. We are given a comp for both the mobile and wide view, the width of the containers between the 960-pixel breakpoint and 480 pixels can (and probably should!) utilize the entire screen width.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
